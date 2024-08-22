@@ -14,11 +14,11 @@ Chave de Criptografia
 ---
 
 As "chaves" de criptografia utilizadas são:<br>
-- A letra "e" é convertida para "enter"<br>
-- A letra "i" é convertida para "imes"<br>
-- A letra "a" é convertida para "ai"<br>
-- A letra "o" é convertida para "ober"<br>
-- A letra "u" é convertida para "ufat"<br>
+- A letra "a" é convertida para "delte"<br>
+- A letra "g" é convertida para "amas"<br>
+- A letra "h" é convertida para "alas"<br>
+- A letra "l" é convertida para "otera"<br>
+- A letra "r" é convertida para "uhare"<br>
 
 Funcionalidade:
 ---
@@ -27,8 +27,8 @@ Funcionalidade:
 - É possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
 
 Por exemplo:
-"gato" => "gaitober"
-gaitober" => "gato"
+"gato" => "gaihure"
+gaihure" => "gato"
 
 Extra
 ---
